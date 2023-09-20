@@ -9,5 +9,5 @@ Open a terminal in the directory of the downloaded script and run
 Wait for it to finish. That's it. Enjoy!
 
 # Notes
-+ The script makes available the options of EasyEffects for running in the background and/or start automatically at login, you can change it in preferences.
++ The script makes available the options of EasyEffects for running in the background and/or start automatically at login, you can change those in preferences.
 + You have to restart your computer in order for pipewire to fully enable.
