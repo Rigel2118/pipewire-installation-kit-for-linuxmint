@@ -1,4 +1,4 @@
-# pipewire-installation-kit-for-linuxmint
+# About
 Simple script that installs pipewire with wireplumber, extra libraries (bluetooth audio included) and EasyEffects for audio enthusiasts. Tested in Linux Mint Cinnamon 21.2 Vanessa.
 
 # Installation
