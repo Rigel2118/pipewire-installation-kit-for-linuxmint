@@ -1,12 +1,17 @@
 # About
-Simple script that installs pipewire with wireplumber, extra libraries (bluetooth audio included) and EasyEffects for audio enthusiasts. Tested in Linux Mint Cinnamon 21.2 Vanessa.
+Simple script that configures pipewire with wireplumber, extra libraries (bluetooth audio included) and EasyEffects for audio enthusiasts. Tested in Linux Mint Cinnamon 21.2 Vanessa.
 
 # Installation
-Open a terminal in the directory of the downloaded script and run
+1. Clone the script into your computer.
+2. Open a terminal in the directory of the downloaded script and run
+
+`chmod +x pwsetup.sh`
+
+then
 
 `sudo bash pwsetup.sh`
 
-Wait for it to finish. That's it. Enjoy!
+and wait for it to finish. Enjoy!
 
 # Notes
 + The script makes available the options of EasyEffects for running in the background and/or start automatically at login, you can change those in preferences.
