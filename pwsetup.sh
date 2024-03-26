@@ -22,9 +22,9 @@ systemctl --user mask pulseaudio
 systemctl --user --now enable pipewire pipewire-pulse wireplumber
 
 # Additional packages
-apt install libldacbt-{abr,enc}2 libspa-0.2-bluetooth pipewire-audio-client-libraries libspa-0.2-jack -y
+apt install libldacbt-abr2 libldacbt-enc2 libspa-0.2-bluetooth pipewire-audio-client-libraries libspa-0.2-jack -y
 
-# ------------ YOU CAN CUT THIS PART IF YOU DON'T WANT EASYEFFECTS ------------
+# ----------- YOU CAN REMOVE THIS PART IF YOU DON'T WANT EASYEFFECTS ----------
 
 apt install --no-install-recommends xdg-desktop-portal-gnome -y
 flatpak install app/com.github.wwmm.easyeffects/x86_64/stable -y
