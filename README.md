@@ -1,5 +1,5 @@
 # About
-Simple script that configures pipewire with wireplumber, extra libraries (bluetooth audio included) and EasyEffects for audio enthusiasts. Tested in Linux Mint Cinnamon 21.2 Vanessa.
+Simple script that configures pipewire with wireplumber, extra libraries (bluetooth audio included) and EasyEffects for audio enthusiasts. Tested in Linux Mint Cinnamon 21.3 Virginia.
 
 # Installation
 1. Clone the script into your computer.
